@@ -2,11 +2,11 @@
 
 This project showcases my skills as a data analyst, focusing on data preprocessing and visualization. Using Jupyter Notebook for data preprocessing and Power BI for dashboard creation, I transformed raw data into actionable insights.
 
-<br /><br /><br />
+<br /><br />
 **Technologies Used**<br />
 **Jupyter Notebook:** For data preprocessing, including data cleaning, manipulation, and exploratory data analysis (EDA)<br />
 **Power BI**: To create an interactive dashboard that visualizes key metrics and insights derived from the data.
-<br /><br /><br />
+<br /><br />
 
 **Project Steps**<br />
 **Data Acquisition:** Imported datasets relevant to the analysis.<br />
